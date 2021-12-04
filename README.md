@@ -1,16 +1,15 @@
 <div align="center">
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="550"/><br></div>
+<img src="https://media.giphy.com/media/RK5KD6UcUpAt92zZvt/giphy.gif" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="100%" height="400px"/></div>
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
 ![](https://komarev.com/ghpvc/?username=sanidhya12345&color=red)
+![](https://visitor-badge.glitch.me/badge?page_id=sanidhya12345.sanidhya12345)
 
 <div size='20px'> Hi! My name is Sanidhya Varshney. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
-
 <h2> About Me</h2>
-<img align="right" alt="GIF" src="https://media.giphy.com/media/RK5KD6UcUpAt92zZvt/giphy.gif" />
-  
+  <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/okal-eltocat.jpg" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="430" align="right" style="margin-bottom: 200px;"/>
 - 🔭 I’m currently working on HTML,CSS JAVASCRIPT<br>
 - 🌱 I’m currently learning MERN Stack<br>
 - 👯 I’m looking to collaborate on Web Development Using MERN Stack<br>
@@ -83,3 +82,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanidhya12345&show_icons=true&locale=en" alt="sanidhya12345" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanidhya12345&" alt="sanidhya12345" /></p>
+<img src="https://activity-graph.herokuapp.com/graph?username=sanidhya12345&theme=github-light&bg_color=#FFFFFF&hide_border=true" width="100%"/>
