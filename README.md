@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.giphy.com/media/RK5KD6UcUpAt92zZvt/giphy.gif" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="100%" height="400px"/></div>
+<img src="https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png" href="https://github.com/sanidhya12345" alt="CoDiNg RocKs"  width="100%" height="200px"/></div>
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
@@ -48,13 +48,13 @@
 <em>Don't hesitate to get in touch!</em>
 </p>
 
-### Developers/Forums: <br>
+## Developers/Forums <img src='https://i.pinimg.com/originals/b9/e4/96/b9e4960c1476c78043d499d975f86cdb.gif' width="70px"><br>
 ![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)
 ![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)
 ![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 
-### Languages and Tools: <br>
+## Languages and Tools <img src='https://cdn.dribbble.com/users/304485/screenshots/3199962/music_machine2.gif' width="70px"><br>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
@@ -77,9 +77,18 @@
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
+![Mega.nz](https://img.shields.io/badge/Mega-%23D90007.svg?style=for-the-badge&logo=Mega&logoColor=white)
+  
+## Github Stats <img src='https://camo.githubusercontent.com/acaa5827f1e5742c1c2fa4a784d7e64c11fd1d98/68747470733a2f2f67772e616c697061796f626a656374732e636f6d2f7a6f732f736b796c61726b2f37663662366131392d623762662d343265652d623866642d6439313238333930636130322f323031382f6769662f62313234653666302d646364642d343435302d396364362d6663643765356464666338612e676966' width="70px"><br>
+  
+<img src="https://activity-graph.herokuapp.com/graph?username=sanidhya12345&theme=github-light&bg_color=#FFFFFF&hide_border=true" width="100%"/>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanidhya12345&show_icons=true&locale=en&layout=compact" alt="sanidhya12345" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanidhya12345&show_icons=true&locale=en" alt="sanidhya12345" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanidhya12345&" alt="sanidhya12345" /></p>
-<img src="https://activity-graph.herokuapp.com/graph?username=sanidhya12345&theme=github-light&bg_color=#FFFFFF&hide_border=true" width="100%"/>
+ 
+  
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
