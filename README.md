@@ -11,7 +11,7 @@
 <h2> About Me</h2>
   <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/okal-eltocat.jpg" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="430" align="right" style="margin-bottom: 200px;"/>
 - 🔭 I’m currently working on HTML,CSS JAVASCRIPT<br>
-- 🌱 I’m currently learning MERN Stack<br>
+- 🌱 I’m currently learning MERN Stack and DSA<br>
 - 👯 I’m looking to collaborate on Web Development Using MERN Stack<br>
 - 🤔 I’m looking for help with Java<br>
 - 💬 Ask me about Java,DBMS,Python,Linux OS,Windows OS<br>
