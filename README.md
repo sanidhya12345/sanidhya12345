@@ -5,6 +5,8 @@
 
 ![](https://komarev.com/ghpvc/?username=sanidhya12345&color=red)
 ![](https://visitor-badge.glitch.me/badge?page_id=sanidhya12345.sanidhya12345)
+![](https://img.shields.io/tokei/lines/github/sanidhya12345/Competitive-Programming)
+[![Coverage Status](https://coveralls.io/repos/github/sanidhya12345/Competitive-Programming/badge.svg?branch=master)](https://coveralls.io/github/sanidhya12345/Competitive-Programming?branch=master)
 
 <div size='20px'> Hi! My name is Sanidhya Varshney. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
