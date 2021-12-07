@@ -5,8 +5,14 @@
 
 ![](https://komarev.com/ghpvc/?username=sanidhya12345&color=red)
 ![](https://visitor-badge.glitch.me/badge?page_id=sanidhya12345.sanidhya12345)
-![](https://img.shields.io/tokei/lines/github/sanidhya12345/Competitive-Programming)
-[![Coverage Status](https://coveralls.io/repos/github/sanidhya12345/Competitive-Programming/badge.svg?branch=master)](https://coveralls.io/github/sanidhya12345/Competitive-Programming?branch=master)
+![](https://img.shields.io/tokei/lines/github/sanidhya12345/Competitive-Programming?label=CP-LOC)
+![](https://img.shields.io/tokei/lines/github/sanidhya12345/MiniProject-1?label=MP-LOC)
+![](https://img.shields.io/github/commit-activity/w/sanidhya12345/Competitive-Programming)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/47afe58197da40af99a97e4401017c84)](https://www.codacy.com/gh/sanidhya12345/Competitive-Programming/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=sanidhya12345/Competitive-Programming&amp;utm_campaign=Badge_Grade)
+![](https://img.shields.io/jetbrains/plugin/r/stars/11941)
+![](https://img.shields.io/github/languages/top/sanidhya12345/Competitive-Programming)
+![](https://img.shields.io/github/languages/count/sanidhya12345/MiniProject-1?color=green&style=flat)
+![](https://img.shields.io/website?style=flat&url=https%3A%2F%2Fsanidhya12345.github.io%2FMiniProject-1%2F)
 
 <div size='20px'> Hi! My name is Sanidhya Varshney. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
