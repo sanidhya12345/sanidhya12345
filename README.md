@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" href="https://github.com/sanidhya12345" alt="CoDiNg RocKs"  width="=100%" height="200px"/></div>
+<img src="https://user-images.githubusercontent.com/7780269/57891608-3e096d00-7851-11e9-8e6c-6f58534ba3f5.png" href="https://github.com/sanidhya12345" alt="CoDiNg RocKs"  width="100%"/></div>
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
@@ -15,7 +15,7 @@
 <div size='20px'> Hi! My name is Sanidhya Varshney. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 <h2> About Me</h2>
-  <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/okal-eltocat.jpg" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="430" align="right" style="margin-bottom: 200px;"/>
+  <img src="https://camo.githubusercontent.com/ea9b334cd3eb02a9e89ea74efee992125a0de243b85f27153f03e166af03718c/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f524b354b443655635570417439327a5a76742f67697068792e676966" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="430" align="right" style="margin-bottom: 200px;"/>
 - 🔭 I’m currently working on HTML,CSS JAVASCRIPT<br>
 - 🌱 I’m currently learning MERN Stack and DSA<br>
 - 👯 I’m looking to collaborate on Web Development Using MERN Stack<br>
