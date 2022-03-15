@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/sanidhya12345/sanidhya12345/blob/main/result.png" href="https://github.com/sanidhya12345" alt="CoDiNg RocKs"  width="100%"/></div>
+<img src="https://joshuatz.com/media/github-contributions-mock-text-demo.gif" href="https://github.com/sanidhya12345" alt="CoDiNg RocKs"  width="100%" height="500px"/></div>
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
@@ -53,7 +53,12 @@
 <p align=center>
 <em>Don't hesitate to get in touch!</em>
 </p>
-
+  
+## Github Trophies<br>
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=sanidhya12345" />
+</p>
+  
 ## Developers/Forums <img src='https://i.pinimg.com/originals/b9/e4/96/b9e4960c1476c78043d499d975f86cdb.gif' width="70px"><br>
 ![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)
 ![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)
