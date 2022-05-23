@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://joshuatz.com/media/github-contributions-mock-text-demo.gif" href="https://github.com/sanidhya12345" alt="CoDiNg RocKs"  width="100%" height="500px"/></div>
+<img src="https://github.com/sanidhya12345/sanidhya12345/blob/main/ss.png" href="https://github.com/sanidhya12345" alt="CoDiNg RocKs"  width="100%"/></div>
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
