@@ -93,7 +93,6 @@
   
 ## Github Stats <img src='https://camo.githubusercontent.com/acaa5827f1e5742c1c2fa4a784d7e64c11fd1d98/68747470733a2f2f67772e616c697061796f626a656374732e636f6d2f7a6f732f736b796c61726b2f37663662366131392d623762662d343265652d623866642d6439313238333930636130322f323031382f6769662f62313234653666302d646364642d343435302d396364362d6663643765356464666338612e676966' width="70px"><br>
   
-<img src="https://activity-graph.herokuapp.com/graph?username=sanidhya12345&theme=github-light&bg_color=#FFFFFF&hide_border=true" width="100%"/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanidhya12345&show_icons=true&locale=en&layout=compact" alt="sanidhya12345" /></p>
 
