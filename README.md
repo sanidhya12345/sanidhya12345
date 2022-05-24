@@ -59,6 +59,11 @@
   <img alig src="https://github-profile-trophy.vercel.app/?username=sanidhya12345" />
 </p>
   
+## Leet Code stats
+  <a href="https://github.com/KnlnKS/leetcode-stats">
+  <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=_191500714" width="400"/>
+</a>
+  
 ## Developers/Forums <img src='https://i.pinimg.com/originals/b9/e4/96/b9e4960c1476c78043d499d975f86cdb.gif' width="70px"><br>
 ![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)
 ![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)
