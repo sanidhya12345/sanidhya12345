@@ -1,6 +1,5 @@
 <div align="center">
 <img src="https://github.com/sanidhya12345/sanidhya12345/blob/main/ss.png" href="https://github.com/sanidhya12345" alt="CoDiNg RocKs"  width="100%"/></div>
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
 ![](https://komarev.com/ghpvc/?username=sanidhya12345&color=red)
@@ -24,7 +23,7 @@
 - 📫 How to reach me: varshneysanidhya@gmail.com
   
   
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<h2> Skills</h2>
 <a href= https://github.com/sanidhya12345?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
 <a href= https://github.com/sanidhya12345?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
 <a href= https://github.com/sanidhya12345?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
@@ -39,7 +38,7 @@
 <a href= https://github.com/sanidhya12345?tab=repositories&q=&type=&language=github&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'> </a>
 
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<h2> Connect with me </h2>
   
 ![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
@@ -64,13 +63,13 @@
   <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=_191500714" width="400"/>
 </a>
   
-## Developers/Forums <img src='https://i.pinimg.com/originals/b9/e4/96/b9e4960c1476c78043d499d975f86cdb.gif' width="70px"><br>
+## Developers/Forums<br>
 ![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)
 ![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)
 ![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 
-## Languages and Tools <img src='https://cdn.dribbble.com/users/304485/screenshots/3199962/music_machine2.gif' width="70px"><br>
+## Languages and Tools<br>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
@@ -96,7 +95,7 @@
 ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
 ![Mega.nz](https://img.shields.io/badge/Mega-%23D90007.svg?style=for-the-badge&logo=Mega&logoColor=white)
   
-## Github Stats <img src='https://camo.githubusercontent.com/acaa5827f1e5742c1c2fa4a784d7e64c11fd1d98/68747470733a2f2f67772e616c697061796f626a656374732e636f6d2f7a6f732f736b796c61726b2f37663662366131392d623762662d343265652d623866642d6439313238333930636130322f323031382f6769662f62313234653666302d646364642d343435302d396364362d6663643765356464666338612e676966' width="70px"><br>
+## Github Stats<br>
   
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanidhya12345&show_icons=true&locale=en&layout=compact" alt="sanidhya12345" /></p>
