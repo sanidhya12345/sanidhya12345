@@ -59,9 +59,7 @@
 </p>
   
 ## Leet Code stats
-  <a href="https://github.com/KnlnKS/leetcode-stats">
-  <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=_191500714" width="400"/>
-</a>
+ [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=sanidhya_varshney)](https://github.com/KnlnKS/leetcode-stats)
   
 ## Developers/Forums<br>
 ![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)
