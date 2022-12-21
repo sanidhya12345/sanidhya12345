@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/sanidhya12345/sanidhya12345/blob/main/ss.png" href="https://github.com/sanidhya12345" alt="CoDiNg RocKs"  width="100%"/></div>
+<img src="[https://github.com/sanidhya12345/sanidhya12345/blob/main/ss.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpaperaccess.com%2Fgithub&psig=AOvVaw2E2NRbXaeIJTGw41fBw9Q3&ust=1671692231478000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMiw0OqRivwCFQAAAAAdAAAAABAS](https://wallpaperaccess.com/full/3415005.jpg)" href="https://github.com/sanidhya12345" alt="CoDiNg RocKs"  width="100%"/></div>
 <p align='center'>
 
 ![](https://komarev.com/ghpvc/?username=sanidhya12345&color=red)
