@@ -100,9 +100,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanidhya12345&show_icons=true&locale=en&layout=compact" alt="sanidhya12345" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=sanidhya12345&show_icons=true&locale=en" alt="sanidhya12345" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sanidhya12345&show_icons=true&locale=en" alt="sanidhya12345" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanidhya12345&" alt="sanidhya12345" /></p>
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sanidhya12345&" alt="sanidhya12345" /></p>
  
   
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
