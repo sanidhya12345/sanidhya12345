@@ -55,11 +55,16 @@
   
 ## Github Trophies<br>
 <p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=sanidhya12345" />
-</p>
+  <img alig src="https://github-profile-trophy.vercel.app/?username=sanidhya12345&theme=onedark" />
+</p
   
 ## Leet Code stats
  [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=sanidhya_varshney)](https://github.com/KnlnKS/leetcode-stats)
+   
+<strong>🏆 Dooboo lab's github stats</strong>
+
+<a href="https://app.dooboo.io/sanidhya12345"><img src="https://server.dooboo.io/github-stats/sanidhya12345" width="600" /></a>
+
   
 ## Developers/Forums<br>
 ![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)
@@ -98,10 +103,21 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanidhya12345&show_icons=true&locale=en&layout=compact" alt="sanidhya12345" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sanidhya12345&show_icons=true&locale=en" alt="sanidhya12345" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=sanidhya12345&theme=dark&show_icons=true" alt="sanidhya12345" /></p>
 
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sanidhya12345&" alt="sanidhya12345" /></p>
+<p><img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanidhya12345&theme=github_dark" alt="sanidhya12345" /></p>
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sanidhya12345" alt="sanidhya12345" /></p>
+
+<p><img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sanidhya&theme=github_dark" alt="sanidhya12345" /></p>
+
+<p><img align="left" src="https://api.githubtrends.io/user/svg/sanidhya12345/langs?time_range=one_year&group=other&theme=bright_lights" alt="sanidhya12345" /></p>
+  
+<p><img align="left" src="https://api.githubtrends.io/user/svg/sanidhya12345/repos?time_range=six_months&group=other&loc_metric=changed&theme=bright_lights" /></p>
+<p><img align="left" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=sanidhya12345" alt="sanidhya12345" /></p>
+
+
  
   
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
