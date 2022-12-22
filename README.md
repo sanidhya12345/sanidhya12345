@@ -5,7 +5,7 @@
 ![](https://komarev.com/ghpvc/?username=sanidhya12345&color=red)
 ![](https://visitor-badge.glitch.me/badge?page_id=sanidhya12345.sanidhya12345)
 ![](https://img.shields.io/github/commit-activity/w/sanidhya12345/JavascriptSeries)
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/47afe58197da40af99a97e4401017c84)](https://www.codacy.com/gh/sanidhya12345/Competitive-Programming/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=sanidhya12345/Competitive-Programming&amp;utm_campaign=Badge_Grade)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/13081020c80e4c39a31cb4678c179ec9)](https://www.codacy.com/gh/sanidhya12345/Evaluating-Public-Anxiety/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=sanidhya12345/Evaluating-Public-Anxiety&amp;utm_campaign=Badge_Grade)
 ![](https://img.shields.io/jetbrains/plugin/r/stars/11941)
 ![](https://img.shields.io/github/languages/top/sanidhya12345/Competitive-Programming)
 ![](https://img.shields.io/github/languages/count/sanidhya12345/MiniProject-1?color=green&style=flat)
