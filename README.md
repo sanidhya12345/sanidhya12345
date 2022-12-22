@@ -22,13 +22,7 @@
 - 💬 Ask me about Java,DBMS,Python,Linux OS,Windows OS<br>
 - 📫 How to reach me: varshneysanidhya@gmail.com
   
-  
-<h2> Skills</h2>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,firebase,html,java,js,linux,mongodb,mysql,py" />
-  </a>
-</p>
+
 
 <h2> Connect with me </h2>
 <p align="left">
