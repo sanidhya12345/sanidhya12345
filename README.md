@@ -14,7 +14,7 @@
 <div size='20px'> Hi! My name is Sanidhya Varshney. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 <h2> About Me</h2>
-  <img src="https://github.com/sanidhya12345/sanidhya12345/blob/main/NUX_Octodex.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="430" align="right" style="margin-bottom: 200px;"/>
+  <img src="https://github.com/sanidhya12345/sanidhya12345/blob/main/NUX_Octodex.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="430px" height="430px" align="right" style="margin-bottom: 1000px;"/>
 - 🔭 I’m currently working on HTML,CSS JAVASCRIPT<br>
 - 🌱 I’m currently learning MERN Stack and DSA<br>
 - 👯 I’m looking to collaborate on Web Development Using MERN Stack<br>
@@ -26,7 +26,7 @@
 <h2> Skills</h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,firebase,github,html,java,js,linux,mongodb,mysql,py" />
+    <img src="https://skillicons.dev/icons?i=css,firebase,html,java,js,linux,mongodb,mysql,py" />
   </a>
 </p>
 
