@@ -105,6 +105,6 @@
   
 <p><img align="left" src="https://api.githubtrends.io/user/svg/sanidhya12345/repos?time_range=six_months&group=other&loc_metric=changed&theme=bright_lights" /></p>
 
- 
+ [![Sanidhya's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sanidhya12345&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
