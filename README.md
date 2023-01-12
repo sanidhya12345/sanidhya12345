@@ -90,14 +90,14 @@
 ## Github Stats<br>
   
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanidhya12345&show_icons=true&locale=en&layout=compact" alt="sanidhya12345" /></p>
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/sanidhya12345?cardType=octocat&theme=react&Border=DD2727)](https://git.io/awesome-stats-card)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=sanidhya12345&theme=dark&show_icons=true" alt="sanidhya12345" /></p>
+<p><img align="left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sanidhya12345&layout=compact&langs_count=8&theme=algolia" alt="sanidhya12345" /></p>
 
 
 <p><img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanidhya12345&theme=github_dark" alt="sanidhya12345" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sanidhya12345" alt="sanidhya12345" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sanidhya12345&theme=algolia" alt="sanidhya12345" /></p>
 
 <p><img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sanidhya&theme=github_dark" alt="sanidhya12345" /></p>
 
