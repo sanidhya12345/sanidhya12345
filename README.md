@@ -90,20 +90,18 @@
 ## Github Stats<br>
   
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/sanidhya12345?cardType=octocat&theme=react&Border=DD2727)](https://git.io/awesome-stats-card)
+<p><img align="right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sanidhya12345&layout=compact&langs_count=8&theme=algolia" alt="sanidhya12345" /></p>
+  
+  <p><img align="left" src="https://awesome-github-stats.azurewebsites.net/user-stats/sanidhya12345?cardType=octocat&theme=react&Border=DD2727" alt="sanidhya12345" /></p><br>
 
-<p><img align="left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sanidhya12345&layout=compact&langs_count=8&theme=algolia" alt="sanidhya12345" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sanidhya12345&theme=algolia" alt="sanidhya12345" /></p>
+
+
 
 
 <p><img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanidhya12345&theme=github_dark" alt="sanidhya12345" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sanidhya12345&theme=algolia" alt="sanidhya12345" /></p>
 
-<p><img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sanidhya&theme=github_dark" alt="sanidhya12345" /></p>
-
-<p><img align="left" src="https://api.githubtrends.io/user/svg/sanidhya12345/langs?time_range=one_year&group=other&theme=bright_lights" alt="sanidhya12345" /></p>
-  
-<p><img align="left" src="https://api.githubtrends.io/user/svg/sanidhya12345/repos?time_range=six_months&group=other&loc_metric=changed&theme=bright_lights" /></p>
 
  [![Sanidhya's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sanidhya12345&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
