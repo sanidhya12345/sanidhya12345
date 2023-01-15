@@ -92,7 +92,7 @@
 
 <p><img align="right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sanidhya12345&layout=compact&langs_count=8&theme=algolia" alt="sanidhya12345" /></p>
   
-  <p><img align="left" src="https://awesome-github-stats.azurewebsites.net/user-stats/sanidhya12345?cardType=octocat&theme=react&Border=DD2727" alt="sanidhya12345" /></p><br>
+  <p><img align="left" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sanidhya12345&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" /></p><br>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sanidhya12345&theme=algolia" alt="sanidhya12345" /></p>
 
