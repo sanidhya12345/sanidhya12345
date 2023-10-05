@@ -43,11 +43,6 @@
   
 ## Leet Code stats
  [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=sanidhya_varshney)](https://github.com/KnlnKS/leetcode-stats)
-   
-<strong>🏆 Dooboo lab's github stats</strong>
-
-<a href="https://app.dooboo.io/sanidhya12345"><img src="https://server.dooboo.io/github-stats/sanidhya12345" width="600" /></a>
-
   
 ## Developers/Forums<br>
 ![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=flat&logo=CodeChef&logoColor=white)
@@ -92,17 +87,11 @@
 
 <p><img align="left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sanidhya12345&layout=compact&langs_count=8&theme=algolia" alt="sanidhya12345" /></p>
   
-  <p><img align="left" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sanidhya12345&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" /></p><br>
+<p><img align="left" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sanidhya12345&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" /></p><br>
+<p><a href="https://holopin.io/@sanidhya12345"><img src="https://holopin.me/sanidhya12345" alt="@sanidhya12345&#39;s Holopin board"></a></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sanidhya12345&theme=algolia&count_private=true&include_all_commits=true" alt="sanidhya12345" /></p>
 
-
-
-
-<p><img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanidhya12345&theme=github_dark" alt="sanidhya12345" /></p>
-
-
-
- [![Sanidhya's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sanidhya12345&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="sanidhya12345's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=sanidhya12345&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
   
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
