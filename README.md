@@ -14,7 +14,7 @@
 <div size='20px'> Hi! My name is Sanidhya Varshney. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 <h2> About Me</h2>
-  <img src="https://github.com/sanidhya12345/sanidhya12345/blob/main/NUX_Octodex.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="430px" height="430px" align="right" style="margin-bottom: 1000px;"/>
+  <img src="https://github.com/sanidhya12345/sanidhya12345/blob/main/68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f636f6465726361742e6a7067.jpeg" href="https://github.com/sanidhya12345" alt="CoDiNg RocKs"  width="430px" height="430px" align="right" style="margin-bottom: 1000px;"/>
 - 🔭 I’m currently working on HTML,CSS JAVASCRIPT<br>
 - 🌱 I’m currently learning MERN Stack and DSA<br>
 - 👯 I’m looking to collaborate on Web Development Using MERN Stack<br>
@@ -39,7 +39,7 @@
 ## Github Trophies<br>
 <p align="center">
   <img alig src="https://github-profile-trophy.vercel.app/?username=sanidhya12345&theme=onedark" />
-</p
+</p>
   
 ## Leet Code stats
  [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=sanidhya_varshney)](https://github.com/KnlnKS/leetcode-stats)
