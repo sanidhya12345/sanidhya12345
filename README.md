@@ -86,7 +86,7 @@
   
 
 <p><img align="left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sanidhya12345&layout=compact&langs_count=8&theme=algolia" alt="sanidhya12345" /></p>
-<p> <img align="right" src="https://github.com/sanidhya12345/sanidhya12345/blob/main/53002571759664.png" width="300px" height="300px"/></p>
+<p> <img align="right" src="https://github.com/sanidhya12345/sanidhya12345/blob/main/53002571759664.png" width="200px" height="200px"/></p>
 <p><img align="left" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sanidhya12345&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" /></p><br>
 <p><a href="https://holopin.io/@sanidhya12345"><img src="https://holopin.me/sanidhya12345" alt="@sanidhya12345&#39;s Holopin board"></a></p>
 
