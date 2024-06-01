@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=sanidhya12345" href="https://github.com/sanidhya12345" alt="CoDiNg RocKs"  width="100%" height="400px" /></div>
+<img src="https://github.com/sanidhya12345/sanidhya12345/blob/main/ss.png" href="https://github.com/sanidhya12345" alt="CoDiNg RocKs"  width="100%" height="100px" /></div>
 <p align='center'>
 
 ![](https://komarev.com/ghpvc/?username=sanidhya12345&color=red)
