@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/sanidhya12345/sanidhya12345/blob/main/head.png" href="https://github.com/sanidhya12345" alt="CoDiNg RocKs"  width="100%" height="200px" /></div>
+<img src="https://github.com/sanidhya12345/sanidhya12345/blob/main/SanidhyaVarshney.png" href="https://github.com/sanidhya12345" alt="CoDiNg RocKs"  width="100%" height="400px" /></div>
 <p align='center'>
 
 ![](https://komarev.com/ghpvc/?username=sanidhya12345&color=red)
@@ -40,10 +40,7 @@
 <p align="center">
   <img alig src="https://github-profile-trophy.vercel.app/?username=sanidhya12345&theme=onedark" />
 </p>
-  
-## Leet Code stats
- [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=sanidhya_varshney)](https://github.com/KnlnKS/leetcode-stats)
-  
+
 ## Developers/Forums<br>
 ![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=flat&logo=CodeChef&logoColor=white)
 ![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=flat&logo=Codeforces&logoColor=white)
