@@ -1,5 +1,6 @@
 <div align="center">
-<img src="https://github.com/sanidhya12345/sanidhya12345/blob/main/SanidhyaVarshney.png" href="https://github.com/sanidhya12345" alt="CoDiNg RocKs"  width="100%" height="400px" /></div>
+<a href="https://profile.codersrank.io/user/sanidhya12345"><img src="https://github.com/sanidhya12345/sanidhya12345/blob/main/SanidhyaVarshney.png" href="https://github.com/sanidhya12345" alt="CoDiNg RocKs"  width="100%" height="400px" /></a>
+</div>
 <p align='center'>
 
 ![](https://komarev.com/ghpvc/?username=sanidhya12345&color=red)
