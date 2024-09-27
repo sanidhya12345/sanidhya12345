@@ -14,23 +14,22 @@
 ![](https://img.shields.io/github/languages/count/sanidhya12345/MiniProject-1?color=green&style=flat)
 ![](https://img.shields.io/website?style=flat&url=https%3A%2F%2Fsanidhya12345.github.io%2FMiniProject-1%2F)
 
-<div size='20px'> Hi! My name is Sanidhya Varshney. Thank You for taking the time to view my GitHub Profile :smile: 
-</div>
 <h2> About Me</h2>
   <img src="https://octodex.github.com/images/codercat.jpg" href="https://github.com/sanidhya12345" alt="CoDiNg RocKs"  width="430px" height="430px" align="right" style="margin-bottom: 1000px;"/>
-- 🔭 I’m currently working on HTML,CSS JAVASCRIPT<br>
-- 🌱 I’m currently learning MERN Stack and DSA<br>
-- 👯 I’m looking to collaborate on Web Development Using MERN Stack<br>
-- 🤔 I’m looking for help with Java<br>
-- 💬 Ask me about Java,DBMS,Python,Linux OS,Windows OS<br>
+- 🔭 I’m currently working on HTML,Css,Javascript,Flask and React etc.<br>
+- 🌱 I’m currently learning DSA and Spring Boot<br>
+- 💬 Ask me about Java,Javascript,Python,Flask,React,DSAS<br>
 - 📫 How to reach me: varshneysanidhya@gmail.com
   
 
 
 <h2> Connect with me </h2>
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=twitter,instagram,discord" />
+  <a href="https://www.linkedin.com/in/sanidhya-varshney-33489b190/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://www.instagram.com/sanidhyavarshney/">
+    <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>
 
