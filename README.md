@@ -1,6 +1,6 @@
 <p align=”center”>
 
-<img width="100%" height="400px" src="https://github.com/sanidhya12345/sanidhya12345/blob/main/Make%20your%20README.png" alt="my banner">
+<img src="https://github.com/sanidhya12345/sanidhya12345/blob/main/github-contribution-grid-snake.gif" alt="my banner">
 
 </p>
 <p align='center'>
