@@ -89,7 +89,7 @@
 <p><img align="left" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sanidhya12345&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" /></p><br>
 <p><a href="https://holopin.io/@sanidhya12345"><img src="https://holopin.me/sanidhya12345" alt="@sanidhya12345&#39;s Holopin board"></a></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sanidhya12345&theme=algolia&count_private=true&include_all_commits=true" alt="sanidhya12345" /></p>
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=sanidhya12345)
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="sanidhya12345's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=sanidhya12345&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
   
