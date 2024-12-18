@@ -7,7 +7,7 @@
 
 ![](https://komarev.com/ghpvc/?username=sanidhya12345&color=red)
 ![](https://visitor-badge.glitch.me/badge?page_id=sanidhya12345.sanidhya12345)
-![](https://img.shields.io/github/commit-activity/w/sanidhya12345/DSA-PREP)
+![](https://img.shields.io/github/commit-activity/w/sanidhya12345/CPlusPlus)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/e4cba38025e54cca9cb5f787459c16df)](https://app.codacy.com/gh/sanidhya12345/DSA-PREP/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
 ![](https://img.shields.io/jetbrains/plugin/r/stars/11941)
 ![](https://img.shields.io/github/languages/top/sanidhya12345/Competitive-Programming)
